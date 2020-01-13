@@ -7,7 +7,7 @@
 package studentlist;
 
 /**
- *
+ * This is student's info
  * @author YanJun Fang
  */
 public class Student {
